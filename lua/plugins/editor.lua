@@ -11,7 +11,7 @@ return {
     },
     keys = {
       {
-        "<leader>fB",
+        "<leader>fd",
         function()
           local telescope = require("telescope")
 
